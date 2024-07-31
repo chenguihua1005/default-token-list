@@ -48,14 +48,6 @@
     },
     {
         "chainId": 8453,
-        "address": "0x4c5d8A75F3762c1561D96f177694f67378705E98",
-        "name": "Pyth Network",
-        "symbol": "PYTH",
-        "decimals": 18,
-        "logoURI": "https://cryptologos.cc/logos/pyth-network-pyth-logo.svg"
-    },
-    {
-        "chainId": 8453,
         "address": "0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415",
         "name": "Curve DAO Token",
         "symbol": "CRV",
@@ -104,14 +96,6 @@
     },
     {
         "chainId": 8453,
-        "address": "0xda3de145054ED30Ee937865D31B500505C4bDfe7",
-        "name": "Curve.fi Factory Plain Pool: Overnight/Curve",
-        "symbol": "USD+crvUSD-f",
-        "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/12124/small/Curve.png"
-    },
-    {
-        "chainId": 8453,
         "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
         "name": "USD+",
         "symbol": "USD+",
@@ -141,14 +125,6 @@
         "symbol": "YFI",
         "decimals": 18,
         "logoURI": "https://assets.coingecko.com/coins/images/11849/small/yearn-finance-logo.png"
-    },
-    {
-        "chainId": 8453,
-        "address": "0x28fe69Ff6864C1C218878BDCA01482D36B9D57b1",
-        "name": "Kyber Network Crystal v2",
-        "symbol": "KNC",
-        "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/14899/small/knc.png"
     },
     {
         "chainId": 8453,
@@ -221,14 +197,6 @@
         "symbol": "PRIME",
         "decimals": 18,
         "logoURI": "https://assets.coingecko.com/coins/images/29438/small/prime.png"
-    },
-    {
-        "chainId": 8453,
-        "address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
-        "name": "EURC",
-        "symbol": "EURC",
-        "decimals": 18,
-        "logoURI": "https://example.com/path/to/eurc-logo.png"
     },
     {
         "chainId": 8453,
@@ -320,35 +288,11 @@
     },
     {
         "chainId": 8453,
-        "address": "0xf1095aa7DC127ed45441aCfb742694d6a0261b00",
-        "name": "BEPRO Token",
-        "symbol": "BEPRO",
-        "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/12778/small/bpro-logo.png"
-    },
-    {
-        "chainId": 8453,
-        "address": "0x4E0dA40b9063dC48364C1C0fFB4AE9d091fc2270",
-        "name": "Edgeware",
-        "symbol": "EDG",
-        "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/11054/small/EDG.png"
-    },
-    {
-        "chainId": 8453,
         "address": "0x0578d8A44db98B23BF096A382e016e29a5Ce0ffe",
         "name": "higher",
         "symbol": "HIGHER",
         "decimals": 18,
         "logoURI": "https://example.com/path/to/higher-logo.png"
-    },
-    {
-        "chainId": 8453,
-        "address": "0xcD1B51b87a8a7137D6421bA5A976225187a26777",
-        "name": "LSD",
-        "symbol": "LSD",
-        "decimals": 18,
-        "logoURI": "https://example.com/path/to/lsd-logo.png"
     },
     {
         "chainId": 8453,
@@ -365,14 +309,6 @@
         "symbol": "GUAC",
         "decimals": 18,
         "logoURI": "https://example.com/path/to/free-guac-logo.png"
-    },
-    {
-        "chainId": 8453,
-        "address": "0xF2d3d488626a117984fda70F8106abC0049018D3",
-        "name": "Miracleplay Token",
-        "symbol": "MPT",
-        "decimals": 18,
-        "logoURI": "https://example.com/path/to/miracleplay-token-logo.png"
     },
     {
         "chainId": 8453,
@@ -416,14 +352,6 @@
     },
     {
         "chainId": 8453,
-        "address": "0xaFB2820316e7Bc5Ef78d295AB9b8Bb2257534576",
-        "name": "R Stablecoin",
-        "symbol": "R",
-        "decimals": 18,
-        "logoURI": "https://example.com/path/to/r-stablecoin-logo.png"
-    },
-    {
-        "chainId": 8453,
         "address": "0x3816dD4bd44c8830c2FA020A5605bAC72FA3De7A",
         "name": "Presearch",
         "symbol": "PRE",
@@ -461,14 +389,6 @@
         "symbol": "CTX",
         "decimals": 18,
         "logoURI": "https://assets.coingecko.com/coins/images/14498/small/CTX.png"
-    },
-    {
-        "chainId": 8453,
-        "address": "0xD9541B08B375D58ae104EC247d7443D2D7235D64",
-        "name": "Wombat Token",
-        "symbol": "WOM",
-        "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/26228/small/wombat.png"
     },
     {
         "chainId": 8453,
@@ -513,7 +433,7 @@
 ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
