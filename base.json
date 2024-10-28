@@ -232,14 +232,6 @@
     },
     {
         "chainId": 8453,
-        "address": "0x4621b7A9c75199271F773Ebd9A499dbd165c3191",
-        "name": "Dola USD Stablecoin",
-        "symbol": "DOLA",
-        "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/14287/small/dola.png"
-    },
-    {
-        "chainId": 8453,
         "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
         "name": "izumi Token",
         "symbol": "iZi",
@@ -433,7 +425,7 @@
 ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
